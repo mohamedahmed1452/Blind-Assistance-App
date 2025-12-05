@@ -12,13 +12,9 @@ The app combines Image Caption Generation, Currency Classification, and Voice Na
 
 [![Demo Video]](https://drive.google.com/file/d/1hfDYSVx97Snb1oPFgZb4L2-Y5ESNZ2q0/view?usp=sharing)
 
-📱 Screenshots
 
-(Replace the image links with actual GitHub paths)
 
-Home Screen	Image Caption	Currency Detection
 
-	
 	
 ✨ Features
 🖼️ Image Caption Generation
