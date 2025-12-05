@@ -9,8 +9,8 @@ The app combines Image Caption Generation, Currency Classification, and Voice Na
 
 🎥 Live Demo Video
 
-Add your demo video here after uploading to GitHub, Drive, or YouTube.
-[![Demo Video](https://drive.google.com/file/d/1hfDYSVx97Snb1oPFgZb4L2-Y5ESNZ2q0/view?usp=sharing)](VIDEO_LINK_HERE)
+
+[![Demo Video]](https://drive.google.com/file/d/1hfDYSVx97Snb1oPFgZb4L2-Y5ESNZ2q0/view?usp=sharing)
 
 📱 Screenshots
 
